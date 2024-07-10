@@ -4,7 +4,7 @@ import { Terminal } from "lucide-react"
 
 export default function Home() {
   return (
-    <main className="p-5 flex gap-3 flex-wrap">
+    <main className="p-5 flex gap-3 flex-wrap items-center justify-center">
       <MyCard />
       <MyCard />
       <MyCard />
